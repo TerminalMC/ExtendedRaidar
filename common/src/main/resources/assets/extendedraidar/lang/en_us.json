@@ -1,0 +1,16 @@
+{
+  "extendedraidar.name": "ExtendedRaidar",
+
+  "message.extendedraidar.viewModrinth": "View on Modrinth",
+  "message.extendedraidar.installCloth": "Install Cloth Config API to access mod options",
+
+  "option.extendedraidar.general": "General",
+
+  "option.extendedraidar.general.modEnabled": "Mod Enabled",
+
+  "option.extendedraidar.general.highlightDistance": "Highlight Distance",
+  "option.extendedraidar.general.highlightDistance.value": "%d m",
+
+  "option.extendedraidar.general.highlightDuration": "Highlight Duration",
+  "option.extendedraidar.general.highlightDuration.value": "%d sec"
+}

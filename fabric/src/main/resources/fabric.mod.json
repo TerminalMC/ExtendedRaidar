@@ -25,7 +25,7 @@
   "entrypoints": {
     "main": [],
     "client": [
-      "dev.terminalmc.framework.FrameworkFabric"
+      "dev.terminalmc.extendedraidar.ExtendedRaidarFabric"
     ],
     "server": [],
     "modmenu": [
